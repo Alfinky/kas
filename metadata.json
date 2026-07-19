@@ -1,0 +1,8 @@
+{
+  "name": "Kas Warga Arsanta",
+  "description": "Aplikasi pengelolaan, transparansi, dan pencatatan kas warga (jimpitan, keamanan, dan sampah) yang profesional, bersih, dan modern.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
